@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#efebe3"/>
+  <rect x="58" y="53" width="1084" height="524" rx="22" fill="#d8e2e4" stroke="#27324a" stroke-width="4"/>
+  <path d="M58 511h1084v66H58z" fill="#a89f91"/>
+  <path d="M58 511h1084" stroke="#27324a" stroke-width="4"/>
+  <g font-family="sans-serif" font-weight="800">
+    <g transform="translate(90 83)"><rect width="190" height="44" rx="22" fill="#fffdf8" stroke="#b75c48" stroke-width="2"/><circle cx="24" cy="22" r="15" fill="#b75c48"/><text x="24" y="28" text-anchor="middle" font-size="16" fill="#fffdf8">休</text><text x="48" y="28" font-size="16" fill="#273147">完全週休二日</text></g>
+    <g transform="translate(90 139)"><rect width="151" height="44" rx="22" fill="#fffdf8" stroke="#d8a53e" stroke-width="2"/><circle cx="24" cy="22" r="15" fill="#d8a53e"/><text x="24" y="28" text-anchor="middle" font-size="16" fill="#fffdf8">賞</text><text x="48" y="28" font-size="16" fill="#273147">賞与あり</text></g>
+    <g transform="translate(90 195)"><rect width="185" height="44" rx="22" fill="#fffdf8" stroke="#5e8e83" stroke-width="2"/><circle cx="24" cy="22" r="15" fill="#5e8e83"/><text x="24" y="28" text-anchor="middle" font-size="16" fill="#fffdf8">通</text><text x="48" y="28" font-size="16" fill="#273147">通勤手当あり</text></g>
+  </g>
+  <g stroke="#27324a" stroke-width="3">
+    <path d="M93 421h93v90H93z" fill="#d0a15f"/>
+    <path d="M204 375h109v136H204z" fill="#7f9b95"/>
+    <path d="M331 317h120v194H331z" fill="#b75c48"/>
+    <path d="M469 248h132v263H469z" fill="#77849a"/>
+    <path d="M619 152h144v359H619z" fill="#27324a"/>
+  </g>
+  <g fill="#f4cd69">
+    <path d="M112 444h14v13h-14zm28 0h14v13h-14zm84-43h15v14h-15zm31 0h15v14h-15zm-31 31h15v14h-15zm31 0h15v14h-15zm101-87h16v15h-16zm35 0h16v15h-16zm-35 35h16v15h-16zm35 0h16v15h-16zm103-95h17v16h-17zm39 0h17v16h-17zm-39 38h17v16h-17zm39 0h17v16h-17zm112-126h18v17h-18zm43 0h18v17h-18zm-43 43h18v17h-18zm43 0h18v17h-18zm-43 43h18v17h-18zm43 0h18v17h-18z"/>
+  </g>
+  <g transform="translate(817 141)" font-family="sans-serif" fill="#273147">
+    <text font-size="20" font-weight="800" letter-spacing="3" fill="#b75c48">厚生労働省 公式統計</text>
+    <text y="65" font-size="43" font-weight="900" letter-spacing="-3">規模別求人条件</text>
+    <text y="116" font-size="24" font-weight="750">会社の大きさで、</text>
+    <text y="149" font-size="24" font-weight="750">3つの条件を比べる。</text>
+    <g transform="translate(0 194)"><rect width="290" height="112" rx="12" fill="#fffdf8" stroke="#bfc2c1" stroke-width="2"/><text x="22" y="31" font-family="monospace" font-size="13" font-weight="700" fill="#6d7480">2020—2025年度</text><text x="22" y="72" font-size="18" font-weight="850">4人以下</text><path d="M109 64h78" stroke="#898f99" stroke-width="2"/><text x="205" y="72" font-size="18" font-weight="850">1,000人以上</text><text x="22" y="98" font-size="13" fill="#6d7480">企業規模計＋7区分</text></g>
+  </g>
+</svg>
